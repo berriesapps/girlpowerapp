@@ -24,18 +24,11 @@
         android:hint="@string/text_hint" />
 
     <Button
-        android:id="@+id/show_button_id"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_below="@id/edittext_id"
-        android:text="@string/show" />
-    
-    <Button
         android:id="@+id/share_button_id"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/edittext_id"
-        android:layout_toRightOf="@id/show_button_id"
+        android:onClick="shareText"
         android:text="@string/share" />
 
 </RelativeLayout>
