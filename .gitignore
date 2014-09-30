@@ -5,4 +5,11 @@ GirlPower/ic_launcher-web.png
 GirlPower/.settings/org.eclipse.jdt.core.prefs
 .metadata
 GirlPower/.classpath
+Template/GirlPower/bin/
+Template/GirlPower/gen/
+Template/GirlPower/proguard-project.txt
+Template/GirlPower/ic_launcher-web.png
+Template/GirlPower/.settings/org.eclipse.jdt.core.prefs
+Template/.metadata
+Template/GirlPower/.classpath
 
